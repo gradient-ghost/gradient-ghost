@@ -6,11 +6,11 @@ My focus is the full lifecycle: **data pipelines → model training → deployme
 
 ### what I’m building right now
 
-**Insider Threat Detection System** — Scaling an LSTM-based behavioral anomaly detector from academic prototype to production. Full CERT r4.2 dataset (464K+ behavioral windows), FastAPI inference API, Streamlit SOC dashboard, MLflow experiment tracking. Currently: training on full dataset, tuning class imbalance handling.
+- **Insider Threat Detection System** — Scaling an LSTM-based behavioral anomaly detector from academic prototype to production. Full CERT r4.2 dataset (464K+ behavioral windows), FastAPI inference API, Streamlit SOC dashboard, MLflow experiment tracking. Currently: training on full dataset, tuning class imbalance handling.
 
-**Market Regime Detection** — Hidden Markov Model that classifies market states (bull/bear/sideways) from price action and macro signals. Built for systematic trading research.
+- **Market Regime Detection** — Hidden Markov Model that classifies market states (bull/bear/sideways) from price action and macro signals. Built for systematic trading research.
 
-**California Housing (Production ML Reference)** — End-to-end ML pipeline with sklearn, FastAPI serving, MLflow tracking, Docker containerization, and Prometheus monitoring. Documented every architectural decision and production bug encountered.
+- **California Housing (Production ML Reference)** — End-to-end ML pipeline with sklearn, FastAPI serving, MLflow tracking, Docker containerization, and Prometheus monitoring. Documented every architectural decision and production bug encountered.
 
 ### stack I actually use
 
