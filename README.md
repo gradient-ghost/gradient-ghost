@@ -27,7 +27,3 @@ Research:     Perplexity Pro, Claude
 I treat every project like it’s going to production because the gap between “it works in a notebook” and “it works in the real world” is where all the interesting engineering lives. That gap is what I’m learning to close.
 
 Building toward a cross-domain ML portfolio: **healthcare × finance × business** — each project demonstrating a different production capability.
-
-### connect
-- [LinkedIn](https://linkedin.com/in/sakshamshukla31)
-- [X (Twitter)](https://x.com/binary01hexABC)
